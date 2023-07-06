@@ -8,7 +8,7 @@ spring:
     open-in-view: false
   datasource:
     username: ShevchenkoDN
-    url: jdbc:postgresql://localhost:5433/storeDb
+    url: jdbc:postgresql://localhost:5433/postgres
     driver-class-name: org.postgresql.Driver
     password: She031fit
   sql:

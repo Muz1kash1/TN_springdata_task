@@ -1,5 +1,6 @@
 package com.example.tn_data_task.JDBC;
 
+import com.example.tn_data_task.service.JDBC.JDBCService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import java.io.ByteArrayOutputStream;
